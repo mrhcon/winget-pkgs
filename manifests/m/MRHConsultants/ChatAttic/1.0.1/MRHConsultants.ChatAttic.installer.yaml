@@ -21,7 +21,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: ChatAttic
     Publisher: M.R.H. Consultants Inc.
-    DisplayVersion: 1.0.1
     ProductCode: '{167CDECB-E13B-39C8-8D9E-B8395F0CFAD4}'
     UpgradeCode: '{F695105C-A091-4FA8-861A-5800CF222ABD}'
     InstallerType: wix
