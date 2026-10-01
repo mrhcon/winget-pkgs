@@ -21,7 +21,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: ContactAttic
     Publisher: M.R.H. Consultants Inc.
-    DisplayVersion: 1.0.1
     ProductCode: '{DDE685F6-4B7E-3959-937C-AD6FE829D71A}'
     UpgradeCode: '{44AEA30C-2B65-4927-8EA9-9D5255C70ACE}'
     InstallerType: wix
