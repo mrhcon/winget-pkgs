@@ -21,7 +21,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: EmailAttic
     Publisher: M.R.H. Consultants Inc.
-    DisplayVersion: 1.0.1
     ProductCode: '{3E895DA0-D7EA-3F66-A6FC-91786A82AE15}'
     UpgradeCode: '{28CF5461-3840-45B9-8B9C-9D94A5EC5494}'
     InstallerType: wix
