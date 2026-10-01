@@ -21,7 +21,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: DocAttic
     Publisher: M.R.H. Consultants Inc.
-    DisplayVersion: 1.0.1
     ProductCode: '{F1796A6F-82F3-332E-AD24-C17E593B1C3B}'
     UpgradeCode: '{419C31F4-408F-4A12-9B27-FCD6B76A18A6}'
     InstallerType: wix
